@@ -1,0 +1,6 @@
+/env
+/my_django_app/my_django_app
+/my_django_app/db.sqlite3
+/my_django_app/manage.py
+/my_django_app/home/migrations
+/my_django_app/home/__pycache__
